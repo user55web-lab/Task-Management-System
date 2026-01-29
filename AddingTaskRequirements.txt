@@ -1,0 +1,2 @@
+1. Setup a local environment to add tasks and see them on that instance
+2. Make a database to hold the tasks even after closing the instance
